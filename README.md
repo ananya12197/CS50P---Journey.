@@ -12,7 +12,7 @@ Hello, lovely human 🌷 I'm **Ananya Sharma**, and this is my personal document
 ├── 🌷 README.md                  ← you are here, darling
 │
 ├── 📖 notes/
-│   ├── week0-functions-variables.md
+│   ├── Lecture 0 - Functions and Variables.
 │   ├── week1-conditionals.md
 │   ├── week2-loops.md
 │   └── ...
